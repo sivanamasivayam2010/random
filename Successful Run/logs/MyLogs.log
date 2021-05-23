@@ -1,0 +1,391 @@
+[INFO] 2021-05-23 18:36:13.039 [main] CorporateWellnessPage - CorporateWellness form with empty name Test
+[INFO] 2021-05-23 18:36:18.648 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:36:18.648 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:36:18.843 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:36:19.018 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:36:19.249 [main] CorporateWellnessPage - Corporate wellness option is clicked successfully 
+[INFO] 2021-05-23 18:36:22.581 [main] CorporateWellnessPage - Corporate Wellness option is clickable from dropdown.
+[INFO] 2021-05-23 18:36:22.581 [main] CorporateWellnessPage - Corporate Wellness Page is opened.
+[INFO] 2021-05-23 18:36:22.631 [main] CorporateWellnessPage - Schedule a demo button is clickable
+[INFO] 2021-05-23 18:36:22.709 [main] CorporateWellnessPage - Schedule a demo button is clicked Successfully 
+[INFO] 2021-05-23 18:36:23.336 [main] CorporateWellnessPage - Warning message is captured from the alert 
+[INFO] 2021-05-23 18:36:23.337 [main] CorporateWellnessPage - Please Enter Name is printed Successfully 
+[INFO] 2021-05-23 18:36:25.250 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:36:25.255 [main] DiagnosticsPage - Diagnostics option click Test
+[INFO] 2021-05-23 18:36:29.714 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:36:29.714 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:36:32.378 [main] DiagnosticsPage - diagnostics Tab is clicked Successfully 
+[INFO] 2021-05-23 18:36:33.690 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:36:33.691 [main] HomePage - Location Search clear option Test
+[INFO] 2021-05-23 18:36:37.030 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:36:37.030 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:36:37.233 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:36:37.282 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:36:38.265 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:36:38.266 [main] HomePage - Hospital Search - allfilters option functionality Check
+[INFO] 2021-05-23 18:36:41.346 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:36:41.347 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:36:41.523 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:36:41.570 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:36:42.695 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:36:42.769 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:36:46.256 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:36:46.384 [main] HospitalSearch - allfilters button is Clicked successfully
+[INFO] 2021-05-23 18:36:46.455 [main] HospitalSearch - Amenities section is displayed
+[INFO] 2021-05-23 18:36:47.525 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:36:48.556 [main] CorporateWellnessPage - CorporateWellness form with empty Organization size Test
+[INFO] 2021-05-23 18:36:51.702 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:36:51.702 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:36:51.808 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:36:51.933 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:36:52.348 [main] CorporateWellnessPage - Corporate wellness option is clicked successfully 
+[INFO] 2021-05-23 18:36:55.864 [main] CorporateWellnessPage - Corporate Wellness option is clickable from dropdown.
+[INFO] 2021-05-23 18:36:55.864 [main] CorporateWellnessPage - Corporate Wellness Page is opened.
+[INFO] 2021-05-23 18:36:55.942 [main] CorporateWellnessPage - Valid  is entered in name field
+[INFO] 2021-05-23 18:36:56.004 [main] CorporateWellnessPage - Cogni is entered in organization name field
+[INFO] 2021-05-23 18:36:56.078 [main] CorporateWellnessPage - valid@gmail.com is entered in Offical Email field
+[INFO] 2021-05-23 18:36:56.180 [main] CorporateWellnessPage - 9876543210 is entered in Contact Number field
+[INFO] 2021-05-23 18:36:56.336 [main] CorporateWellnessPage - Schedule a demo button is clickable
+[INFO] 2021-05-23 18:36:56.450 [main] CorporateWellnessPage - Schedule a demo button is clicked Successfully 
+[INFO] 2021-05-23 18:37:55.338 [main] CorporateWellnessPage - Warning message is captured from the alert 
+[INFO] 2021-05-23 18:37:55.339 [main] CorporateWellnessPage - Please Enter Organization size is printed successfully 
+[INFO] 2021-05-23 18:37:56.400 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:37:56.401 [main] DiagnosticsPage - Diagnostics Page Search box click Test
+[INFO] 2021-05-23 18:37:59.865 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:37:59.865 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:38:02.204 [main] DiagnosticsPage - diagnostics Tab is clicked Successfully 
+[INFO] 2021-05-23 18:38:02.729 [main] DiagnosticsPage - Bangalore is  entered in City Search bar
+[INFO] 2021-05-23 18:38:02.811 [main] DiagnosticsPage - Bangalore is  entered Successfully 
+[INFO] 2021-05-23 18:38:03.516 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:38:03.518 [main] HomePage - Location Search click Test
+[INFO] 2021-05-23 18:38:06.991 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:38:06.991 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:38:07.171 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:08.229 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:38:08.230 [main] HomePage - Hospital Search - Filters functionality Test
+[INFO] 2021-05-23 18:38:12.273 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:38:12.273 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:38:12.275 [main] HomePage - Hospital Search - Filters functionality Test : accredited
+[INFO] 2021-05-23 18:38:12.487 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:12.524 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:38:13.197 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:38:13.289 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:17.316 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:38:17.421 [main] HospitalSearch - Accredited Filter is clickable
+[INFO] 2021-05-23 18:38:18.421 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:38:18.422 [main] HomePage - Hospital Search - Filters functionality Test
+[INFO] 2021-05-23 18:38:21.460 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:38:21.461 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:38:21.463 [main] HomePage - Hospital Search - Filters functionality Test : cafeteria 
+[INFO] 2021-05-23 18:38:21.617 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:21.876 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:38:22.684 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:38:22.781 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:26.628 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:38:26.725 [main] HospitalSearch - allfilters button is Clicked successfully
+[INFO] 2021-05-23 18:38:27.627 [main] HospitalSearch - Cafeteria Filter is clickable
+[INFO] 2021-05-23 18:38:28.598 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:38:28.599 [main] HomePage - Hospital Search - Filters functionality Test
+[INFO] 2021-05-23 18:38:32.206 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:38:32.206 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:38:32.207 [main] HomePage - Hospital Search - Filters functionality Test : diagnosticLabServices
+[INFO] 2021-05-23 18:38:32.507 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:32.741 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:38:33.366 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:38:33.470 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:37.494 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:38:37.585 [main] HospitalSearch - allfilters button is Clicked successfully
+[INFO] 2021-05-23 18:38:38.012 [main] HospitalSearch - Diagnostic Lab Services Filter is clickable
+[INFO] 2021-05-23 18:38:38.847 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:38:38.848 [main] HomePage - Hospital Search - Filters functionality Test
+[INFO] 2021-05-23 18:38:42.384 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:38:42.384 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:38:42.386 [main] HomePage - Hospital Search - Filters functionality Test : hasParking
+[INFO] 2021-05-23 18:38:42.546 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:42.606 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:38:43.644 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:38:43.727 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:47.464 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:38:47.592 [main] HospitalSearch - allfilters button is Clicked successfully
+[INFO] 2021-05-23 18:38:47.908 [main] HospitalSearch - Has Parking Filter is clickable
+[INFO] 2021-05-23 18:38:48.823 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:38:48.825 [main] HomePage - Hospital Search - Filters functionality Test
+[INFO] 2021-05-23 18:38:52.025 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:38:52.026 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:38:52.027 [main] HomePage - Hospital Search - Filters functionality Test : onlineBooking
+[INFO] 2021-05-23 18:38:52.153 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:52.231 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:38:53.151 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:38:53.249 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:38:56.728 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:38:56.829 [main] HospitalSearch - Online Booking Filter is clickable
+[INFO] 2021-05-23 18:38:57.608 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:38:57.609 [main] HomePage - Hospital Search - Filters functionality Test
+[INFO] 2021-05-23 18:39:00.973 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:39:00.973 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:39:00.974 [main] HomePage - Hospital Search - Filters functionality Test : open24x7
+[INFO] 2021-05-23 18:39:01.163 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:39:01.257 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:39:02.101 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:39:02.470 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:39:06.022 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:39:06.400 [main] HospitalSearch - Open 24X7 Filter is clickable
+[INFO] 2021-05-23 18:39:07.318 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:39:07.322 [main] HomePage - Hospital Search - Filters functionality Test
+[INFO] 2021-05-23 18:39:11.046 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:39:11.046 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:39:11.047 [main] HomePage - Hospital Search - Filters functionality Test : pharmacy24x7
+[INFO] 2021-05-23 18:39:11.239 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:39:11.297 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:39:12.188 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:39:12.303 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:39:16.046 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:39:16.216 [main] HospitalSearch - allfilters button is Clicked successfully
+[INFO] 2021-05-23 18:39:16.477 [main] HospitalSearch - 24x7 Pharmacy Filter is clickable
+[INFO] 2021-05-23 18:39:17.571 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:39:17.640 [main] CorporateWellnessPage - CorporateWellness form with invalid details Test
+[INFO] 2021-05-23 18:39:20.833 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:39:20.833 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:39:20.834 [main] CorporateWellnessPage - CorporateWellness form with invalid details Test : Invalid Email
+[INFO] 2021-05-23 18:39:20.875 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:39:20.942 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:39:21.342 [main] CorporateWellnessPage - Corporate wellness option is clicked successfully 
+[INFO] 2021-05-23 18:39:24.398 [main] CorporateWellnessPage - Corporate Wellness option is clickable from dropdown.
+[INFO] 2021-05-23 18:39:24.398 [main] CorporateWellnessPage - Corporate Wellness Page is opened.
+[INFO] 2021-05-23 18:39:24.590 [main] CorporateWellnessPage - Rafter is entered in name field
+[INFO] 2021-05-23 18:39:24.769 [main] CorporateWellnessPage - CTS is entered in organization name field
+[INFO] 2021-05-23 18:39:24.831 [main] CorporateWellnessPage - rafter is entered in Offical Email field
+[INFO] 2021-05-23 18:39:24.892 [main] CorporateWellnessPage - 6543219870 is entered in Contact Number field
+[INFO] 2021-05-23 18:39:24.973 [main] CorporateWellnessPage - Organization Size Dropdown is selectable
+[INFO] 2021-05-23 18:39:25.036 [main] CorporateWellnessPage - Schedule a demo button is clickable
+[INFO] 2021-05-23 18:39:25.301 [main] CorporateWellnessPage - Schedule a demo button is clicked Successfully 
+[INFO] 2021-05-23 18:39:54.363 [main] CorporateWellnessPage - Warning message is captured from the alert 
+[INFO] 2021-05-23 18:39:54.363 [main] CorporateWellnessPage - Please enter valid email address is printed successfully 
+[INFO] 2021-05-23 18:39:55.183 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:39:55.184 [main] CorporateWellnessPage - CorporateWellness form with invalid details Test
+[INFO] 2021-05-23 18:39:58.856 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:39:58.856 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:39:58.857 [main] CorporateWellnessPage - CorporateWellness form with invalid details Test : Invalid Contact
+[INFO] 2021-05-23 18:39:58.905 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:39:58.959 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:39:59.193 [main] CorporateWellnessPage - Corporate wellness option is clicked successfully 
+[INFO] 2021-05-23 18:40:02.334 [main] CorporateWellnessPage - Corporate Wellness option is clickable from dropdown.
+[INFO] 2021-05-23 18:40:02.334 [main] CorporateWellnessPage - Corporate Wellness Page is opened.
+[INFO] 2021-05-23 18:40:02.440 [main] CorporateWellnessPage - Rohith is entered in name field
+[INFO] 2021-05-23 18:40:02.677 [main] CorporateWellnessPage - Cognizant is entered in organization name field
+[INFO] 2021-05-23 18:40:02.752 [main] CorporateWellnessPage - mail@mail.com is entered in Offical Email field
+[INFO] 2021-05-23 18:40:02.806 [main] CorporateWellnessPage - 12345 is entered in Contact Number field
+[INFO] 2021-05-23 18:40:02.872 [main] CorporateWellnessPage - Organization Size Dropdown is selectable
+[INFO] 2021-05-23 18:40:02.910 [main] CorporateWellnessPage - Schedule a demo button is clickable
+[INFO] 2021-05-23 18:40:03.077 [main] CorporateWellnessPage - Schedule a demo button is clicked Successfully 
+[INFO] 2021-05-23 18:40:26.361 [main] CorporateWellnessPage - Warning message is captured from the alert 
+[INFO] 2021-05-23 18:40:26.362 [main] CorporateWellnessPage - Please enter valid phone no is printed successfully 
+[INFO] 2021-05-23 18:40:27.146 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:40:27.147 [main] DiagnosticsPage - Display Top cities Test
+[INFO] 2021-05-23 18:40:30.483 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:40:30.483 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:40:32.920 [main] DiagnosticsPage - diagnostics Tab is clicked Successfully 
+[INFO] 2021-05-23 18:40:33.722 [main] BaseUI - Screenshot is taken Successfully 
+[INFO] 2021-05-23 18:40:33.722 [main] DiagnosticsPage - Top cities are printed in TopCities.txt on the testoutput folder.
+[INFO] 2021-05-23 18:40:34.085 [main] DiagnosticsPage - Top cities is Displayed Successfully 
+[INFO] 2021-05-23 18:40:35.621 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:40:35.622 [main] HomePage - Location Search functionality Test
+[INFO] 2021-05-23 18:40:39.224 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:40:39.225 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:40:39.402 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:40:39.489 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:40:40.438 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:40:42.068 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:40:42.069 [main] HomePage - Hospital Search - Filters section visibility Check
+[INFO] 2021-05-23 18:40:45.325 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:40:45.325 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:40:45.514 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:40:45.599 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:40:46.509 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:40:46.608 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:40:50.759 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:40:50.813 [main] HospitalSearch - Filters section is visible
+[INFO] 2021-05-23 18:40:51.771 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:40:51.796 [main] CorporateWellnessPage - CorporateWellness form with valid details Test
+[INFO] 2021-05-23 18:40:55.081 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:40:55.081 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:40:55.123 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:40:55.214 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:40:55.555 [main] CorporateWellnessPage - Corporate wellness option is clicked successfully 
+[INFO] 2021-05-23 18:40:58.622 [main] CorporateWellnessPage - Corporate Wellness option is clickable from dropdown.
+[INFO] 2021-05-23 18:40:58.622 [main] CorporateWellnessPage - Corporate Wellness Page is opened.
+[INFO] 2021-05-23 18:40:58.724 [main] CorporateWellnessPage - Valid  is entered in name field
+[INFO] 2021-05-23 18:40:59.010 [main] CorporateWellnessPage - Cogni is entered in organization name field
+[INFO] 2021-05-23 18:40:59.098 [main] CorporateWellnessPage - valid@gmail.com is entered in Offical Email field
+[INFO] 2021-05-23 18:40:59.171 [main] CorporateWellnessPage - 9876543210 is entered in Contact Number field
+[INFO] 2021-05-23 18:40:59.255 [main] CorporateWellnessPage - Organization Size Dropdown is selectable
+[INFO] 2021-05-23 18:40:59.300 [main] CorporateWellnessPage - Schedule a demo button is clickable
+[INFO] 2021-05-23 18:40:59.479 [main] CorporateWellnessPage - Schedule a demo button is clicked Successfully 
+[INFO] 2021-05-23 18:42:40.429 [main] BaseUI - Screenshot is taken Successfully 
+[INFO] 2021-05-23 18:42:40.430 [main] CorporateWellnessPage - Testcase passed. successfully scheduled a demo.
+[INFO] 2021-05-23 18:42:41.199 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:42:41.200 [main] DiagnosticsPage - Select Top city Test
+[INFO] 2021-05-23 18:42:44.900 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:42:44.900 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:42:47.354 [main] DiagnosticsPage - diagnostics Tab is clicked Successfully 
+[INFO] 2021-05-23 18:42:48.010 [main] DiagnosticsPage - Diagonstics Page  :Bangalore City is clicked Successfully 
+[INFO] 2021-05-23 18:42:48.033 [main] DiagnosticsPage - Results for selected location is displayed
+[INFO] 2021-05-23 18:42:48.958 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:42:48.959 [main] HomePage - Search box clear option Test
+[INFO] 2021-05-23 18:42:52.578 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:42:52.578 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:42:52.670 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:42:52.704 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:42:53.352 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:42:53.421 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:42:53.806 [main] HomePage - Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:42:54.676 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:42:54.677 [main] HomePage - Hospital Search - resetfilters option Check
+[INFO] 2021-05-23 18:42:58.300 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:42:58.300 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:42:58.389 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:42:58.416 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:42:59.262 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:42:59.522 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:43:02.939 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:43:03.063 [main] HospitalSearch - Online Booking Filter is Applied successfully
+[INFO] 2021-05-23 18:43:06.183 [main] HospitalSearch - open24x7 Filter is Applied successfully
+[INFO] 2021-05-23 18:43:10.789 [main] HospitalSearch - resetfilters is Clicked successfully
+[INFO] 2021-05-23 18:44:40.798 [main] HospitalSearch - Filters are reset successfully
+[INFO] 2021-05-23 18:44:41.579 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:44:41.581 [main] CorporateWellnessPage - For Providers tab functionality Test
+[INFO] 2021-05-23 18:44:45.297 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:44:45.298 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:44:45.377 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:44:45.522 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:44:46.567 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:44:46.568 [main] HomePage - Search box click Test
+[INFO] 2021-05-23 18:44:49.958 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:44:49.958 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:44:50.131 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:44:50.284 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:44:51.207 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:44:51.290 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:44:52.384 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:44:52.385 [main] HomePage - Hospital Search - Search Hospitals Test
+[INFO] 2021-05-23 18:44:56.425 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:44:56.425 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:44:56.538 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:44:56.587 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:44:57.538 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:44:57.625 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:45:01.235 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:45:01.669 [main] HospitalSearch - open24x7 Filter is Applied successfully
+[INFO] 2021-05-23 18:45:04.875 [main] HospitalSearch - allfilters button is Clicked successfully
+[INFO] 2021-05-23 18:45:05.376 [main] HospitalSearch - hasParking Filter is Applied successfully
+[INFO] 2021-05-23 18:45:08.350 [main] HospitalSearch - Hospitals above 3.5 rating are printed in output_highRatingHospitalsTest.txt on the testoutput folder.
+[INFO] 2021-05-23 18:45:08.992 [main] HospitalSearch - Hospitals above 3.5 rating is printed successfully
+[INFO] 2021-05-23 18:45:09.381 [main] BaseUI - Screenshot is taken Successfully 
+[INFO] 2021-05-23 18:45:10.179 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:45:10.182 [main] CorporateWellnessPage - Organization size dropdown functionality Test
+[INFO] 2021-05-23 18:45:13.668 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:45:13.668 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:45:13.712 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:45:13.798 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:45:14.179 [main] CorporateWellnessPage - Corporate wellness option is clicked successfully 
+[INFO] 2021-05-23 18:45:17.063 [main] CorporateWellnessPage - Corporate Wellness option is clickable from dropdown.
+[INFO] 2021-05-23 18:45:17.063 [main] CorporateWellnessPage - Corporate Wellness Page is opened.
+[INFO] 2021-05-23 18:45:17.155 [main] CorporateWellnessPage - Organization Size Dropdown is selectable
+[INFO] 2021-05-23 18:45:18.240 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:45:18.241 [main] HomePage - Search box functionality Test
+[INFO] 2021-05-23 18:45:21.663 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:45:21.663 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:45:21.934 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:45:22.032 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:45:22.735 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:45:22.815 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:45:26.814 [main] HomePage - Hospital is clicked Successfully 
+[INFO] 2021-05-23 18:45:27.201 [main] BaseUI - Screenshot is taken Successfully 
+[INFO] 2021-05-23 18:45:28.317 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:45:28.319 [main] CorporateWellnessPage - Schedule a demo button functionality Test
+[INFO] 2021-05-23 18:45:31.456 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:45:31.457 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:45:31.504 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:45:31.569 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:45:31.972 [main] CorporateWellnessPage - Corporate wellness option is clicked successfully 
+[INFO] 2021-05-23 18:45:35.030 [main] CorporateWellnessPage - Corporate Wellness option is clickable from dropdown.
+[INFO] 2021-05-23 18:45:35.030 [main] CorporateWellnessPage - Corporate Wellness Page is opened.
+[INFO] 2021-05-23 18:45:35.064 [main] CorporateWellnessPage - Schedule a demo button is clickable
+[INFO] 2021-05-23 18:45:35.118 [main] CorporateWellnessPage - Schedule a demo button is clicked Successfully 
+[INFO] 2021-05-23 18:45:36.231 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:45:36.232 [main] HomePage - Search box suggestion Test
+[INFO] 2021-05-23 18:45:40.101 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:45:40.101 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:45:40.314 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:45:40.591 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:45:41.237 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:45:41.299 [main] HomePage - Search box is clicked Successfully 
+[INFO] 2021-05-23 18:45:44.615 [main] HomePage - Dentist is clicked Successfully 
+[INFO] 2021-05-23 18:45:45.628 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:45:45.631 [main] CorporateWellnessPage - Select CorporateWellness option Test
+[INFO] 2021-05-23 18:45:49.203 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:45:49.204 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:45:49.465 [main] CorporateWellnessPage - For Providers tab is clickable
+[INFO] 2021-05-23 18:45:49.534 [main] CorporateWellnessPage - For Providers tab is clicked successfully 
+[INFO] 2021-05-23 18:45:49.682 [main] CorporateWellnessPage - Corporate wellness option is clicked successfully 
+[INFO] 2021-05-23 18:45:52.655 [main] CorporateWellnessPage - Corporate Wellness option is clickable from dropdown.
+[INFO] 2021-05-23 18:45:52.655 [main] CorporateWellnessPage - Corporate Wellness Page is opened.
+[INFO] 2021-05-23 18:45:53.594 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:45:53.594 [main] HomePage - Search in entire Bangalore Test
+[INFO] 2021-05-23 18:45:56.977 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:45:56.978 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:45:57.081 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:45:57.459 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:45:58.091 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:45:58.151 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:45:58.372 [main] HomePage - Search in entire Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:45:59.411 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:45:59.412 [main] HomePage - Location Search suggestion Test
+[INFO] 2021-05-23 18:46:03.008 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:46:03.008 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:46:03.290 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:46:03.332 [main] HomePage - location Search Box is cleared Successfully 
+[INFO] 2021-05-23 18:46:03.935 [main] HomePage - Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:46:04.002 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:46:04.471 [main] HomePage - Search in entire Bangalore is clicked Successfully 
+[INFO] 2021-05-23 18:46:05.338 [main] BaseUI - Closing Browser 
+
+[INFO] 2021-05-23 18:46:05.340 [main] HomePage - Use my location option Test
+[INFO] 2021-05-23 18:46:08.441 [main] BaseUI - Opening Browser
+[INFO] 2021-05-23 18:46:08.441 [main] BaseUI - Practo website is launched 
+[INFO] 2021-05-23 18:46:08.554 [main] HomePage - Location Search box is clicked Successfully 
+[INFO] 2021-05-23 18:46:09.519 [main] HomePage - Use my location is clicked Successfully 
+[INFO] 2021-05-23 18:46:10.484 [main] BaseUI - Closing Browser 
+

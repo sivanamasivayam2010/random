@@ -1,0 +1,13 @@
+List of Hospitals in Banglore with Rating above 3.5
+
+Filters Applied:Open 24x7, Has Parking
+1. Motherhood Hospital
+2. Koshys Hospital
+3. Apollo Cradle
+4. Cloudnine Hospital - Old Airport Road
+5. Cloudnine Hospital - Malleshwaram
+6. Cloudnine Hospital - Whitefield
+7. Cloudnine Hospital - Bellandur
+8. Cloudnine Hospital - Jayanagar
+9. Cloudnine Fertility - IVF Centre, Old Airport Road
+10. Cloudnine Fertility - IVF Centre, Jayanagar

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="34" passed="34" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-23T18:36:12 IST" name="Suite" finished-at="2021-05-23T18:46:10 IST" duration-ms="597511">
+    <groups>
+      <group name="regression">
+        <method signature="CorporateWellnessWithEmptyNameTest.EmptyNameTest()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest@16ecee1]" name="EmptyNameTest" class="testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest"/>
+        <method signature="CorporateWellnessWithEmptyOrgSizeTest.EmptyOrgSizeTest(java.util.Hashtable)[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest@3b220bcb]" name="EmptyOrgSizeTest" class="testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest"/>
+        <method signature="CorporateWellnessWithInvalidDetailsTest.InvalidTest(java.util.Hashtable)[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b]" name="InvalidTest" class="testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest"/>
+        <method signature="CorporateWellnessWithValidDetailsTest.ValidDetailsTest(java.util.Hashtable)[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest@4a3329b9]" name="ValidDetailsTest" class="testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest"/>
+        <method signature="DisplayTopCitiesTest.displayTopCitiesTest()[pri:0, instance:testCaseDiagnosticsPage.DisplayTopCitiesTest@3f053c80]" name="displayTopCitiesTest" class="testCaseDiagnosticsPage.DisplayTopCitiesTest"/>
+        <method signature="FiltersFunctionalityTest.accreditedFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" name="accreditedFunctionality" class="testCaseHospitalSearch.FiltersFunctionalityTest"/>
+        <method signature="FiltersFunctionalityTest.cafeteriaFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" name="cafeteriaFunctionality" class="testCaseHospitalSearch.FiltersFunctionalityTest"/>
+        <method signature="FiltersFunctionalityTest.diagnosticLabServicesFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" name="diagnosticLabServicesFunctionality" class="testCaseHospitalSearch.FiltersFunctionalityTest"/>
+        <method signature="FiltersFunctionalityTest.hasParkingFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" name="hasParkingFunctionality" class="testCaseHospitalSearch.FiltersFunctionalityTest"/>
+        <method signature="FiltersFunctionalityTest.onlineBookingFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" name="onlineBookingFunctionality" class="testCaseHospitalSearch.FiltersFunctionalityTest"/>
+        <method signature="FiltersFunctionalityTest.open24x7Functionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" name="open24x7Functionality" class="testCaseHospitalSearch.FiltersFunctionalityTest"/>
+        <method signature="FiltersFunctionalityTest.pharmacy24x7Functionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" name="pharmacy24x7Functionality" class="testCaseHospitalSearch.FiltersFunctionalityTest"/>
+        <method signature="LocationSearchClearTest.locationSearchClearTest()[pri:0, instance:testCaseHomePage.LocationSearchClearTest@618c5d94]" name="locationSearchClearTest" class="testCaseHomePage.LocationSearchClearTest"/>
+        <method signature="LocationSearchFunctionalityTest.locationSearchTest()[pri:0, instance:testCaseHomePage.LocationSearchFunctionalityTest@13c3c1e1]" name="locationSearchTest" class="testCaseHomePage.LocationSearchFunctionalityTest"/>
+        <method signature="ResetFiltersCheck.resetFiltersFunctionality()[pri:0, instance:testCaseHospitalSearch.ResetFiltersCheck@47605f2f]" name="resetFiltersFunctionality" class="testCaseHospitalSearch.ResetFiltersCheck"/>
+        <method signature="SearchBoxClearTest.searchBoxClearTest()[pri:0, instance:testCaseHomePage.SearchBoxClearTest@1d8062d2]" name="searchBoxClearTest" class="testCaseHomePage.SearchBoxClearTest"/>
+        <method signature="SearchBoxClickTest.searchBoxClickTest()[pri:0, instance:testCaseHomePage.SearchBoxClickTest@1e63ec0b]" name="searchBoxClickTest" class="testCaseHomePage.SearchBoxClickTest"/>
+        <method signature="SearchBoxSuggestionTest.suggestionCheckTest()[pri:0, instance:testCaseHomePage.SearchBoxSuggestionTest@36546a22]" name="suggestionCheckTest" class="testCaseHomePage.SearchBoxSuggestionTest"/>
+        <method signature="SearchHospitalsTest.highRatingHospitalsTest()[pri:0, instance:testCaseHospitalSearch.SearchHospitalsTest@2ece4966]" name="highRatingHospitalsTest" class="testCaseHospitalSearch.SearchHospitalsTest"/>
+        <method signature="SearchInEntireCityTest.searchInEntireCityTest()[pri:0, instance:testCaseHomePage.SearchInEntireCityTest@285c08c8]" name="searchInEntireCityTest" class="testCaseHomePage.SearchInEntireCityTest"/>
+        <method signature="SelectTopCityTest.selectTopCityTest()[pri:0, instance:testCaseDiagnosticsPage.SelectTopCityTest@6c6c5427]" name="selectTopCityTest" class="testCaseDiagnosticsPage.SelectTopCityTest"/>
+        <method signature="SuggestionLocationCheckTest.suggestionLocationCheckTest()[pri:0, instance:testCaseHomePage.SuggestionLocationCheckTest@295eaa7c]" name="suggestionLocationCheckTest" class="testCaseHomePage.SuggestionLocationCheckTest"/>
+        <method signature="UseMyLocationTest.useMyLocationTest()[pri:0, instance:testCaseHomePage.UseMyLocationTest@3918c187]" name="useMyLocationTest" class="testCaseHomePage.UseMyLocationTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="AllFiltersFunctionalityCheck.allFiltersFunctionality()[pri:0, instance:testCaseHospitalSearch.AllFiltersFunctionalityCheck@2c88b9fc]" name="allFiltersFunctionality" class="testCaseHospitalSearch.AllFiltersFunctionalityCheck"/>
+        <method signature="DiagnosticsOptionClickTest.diagnosticsButtonClickTest()[pri:0, instance:testCaseDiagnosticsPage.DiagnosticsOptionClickTest@13e3c1c7]" name="diagnosticsButtonClickTest" class="testCaseDiagnosticsPage.DiagnosticsOptionClickTest"/>
+        <method signature="DiagnosticsPageSearchBoxClickTest.selectCitySearchBoxClickTest()[pri:0, instance:testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest@5316e95f]" name="selectCitySearchBoxClickTest" class="testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest"/>
+        <method signature="FiltersSectionVisibilityCheck.filtersSectionVisibilityTest()[pri:0, instance:testCaseHospitalSearch.FiltersSectionVisibilityCheck@388ba540]" name="filtersSectionVisibilityTest" class="testCaseHospitalSearch.FiltersSectionVisibilityCheck"/>
+        <method signature="ForProvidersFunctionalityTest.forProvidersFunctionalityTest()[pri:0, instance:testCaseCorporateWellnessPage.ForProvidersFunctionalityTest@3dddefd8]" name="forProvidersFunctionalityTest" class="testCaseCorporateWellnessPage.ForProvidersFunctionalityTest"/>
+        <method signature="LocationSearchClickTest.locationSearchClickTest()[pri:0, instance:testCaseHomePage.LocationSearchClickTest@5b40ceb]" name="locationSearchClickTest" class="testCaseHomePage.LocationSearchClickTest"/>
+        <method signature="OrganizationSizeDropDownFunctionalityTest.organizationSizeDropDownFunctionalityTest()[pri:0, instance:testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest@160ac7fb]" name="organizationSizeDropDownFunctionalityTest" class="testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest"/>
+        <method signature="ScheduleADemoButtonFunctionalityTest.scheduleButtonFunctionalityTest()[pri:0, instance:testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest@12bfd80d]" name="scheduleButtonFunctionalityTest" class="testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest"/>
+        <method signature="SearchBoxFunctionalityTest.searchBoxTest()[pri:0, instance:testCaseHomePage.SearchBoxFunctionalityTest@3b956878]" name="searchBoxTest" class="testCaseHomePage.SearchBoxFunctionalityTest"/>
+        <method signature="SelectCorporateWellnessOptionTest.corporateWellnessFunctionalityTest()[pri:0, instance:testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest@41925502]" name="corporateWellnessFunctionalityTest" class="testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2021-05-23T18:36:12 IST" name="Test" finished-at="2021-05-23T18:46:10 IST" duration-ms="597511">
+      <class name="testCaseHomePage.SearchBoxFunctionalityTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.SearchBoxFunctionalityTest@3b956878]" started-at="2021-05-23T18:45:18 IST" name="openBrowser" finished-at="2021-05-23T18:45:21 IST" duration-ms="3422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="searchBoxTest()[pri:0, instance:testCaseHomePage.SearchBoxFunctionalityTest@3b956878]" started-at="2021-05-23T18:45:21 IST" name="searchBoxTest" finished-at="2021-05-23T18:45:27 IST" duration-ms="5629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBoxTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.SearchBoxFunctionalityTest@3b956878]" started-at="2021-05-23T18:45:27 IST" name="closeBrowser" finished-at="2021-05-23T18:45:28 IST" duration-ms="1026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.SearchBoxFunctionalityTest -->
+      <class name="testCaseHomePage.SearchBoxClearTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.SearchBoxClearTest@1d8062d2]" started-at="2021-05-23T18:42:48 IST" name="openBrowser" finished-at="2021-05-23T18:42:52 IST" duration-ms="3620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="searchBoxClearTest()[pri:0, instance:testCaseHomePage.SearchBoxClearTest@1d8062d2]" started-at="2021-05-23T18:42:52 IST" name="searchBoxClearTest" finished-at="2021-05-23T18:42:53 IST" duration-ms="1244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBoxClearTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.SearchBoxClearTest@1d8062d2]" started-at="2021-05-23T18:42:53 IST" name="closeBrowser" finished-at="2021-05-23T18:42:54 IST" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.SearchBoxClearTest -->
+      <class name="testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest@3b220bcb]" started-at="2021-05-23T18:36:48 IST" name="openBrowser" finished-at="2021-05-23T18:36:51 IST" duration-ms="3146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="EmptyOrgSizeTest(java.util.Hashtable)[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest@3b220bcb]" started-at="2021-05-23T18:36:51 IST" name="EmptyOrgSizeTest" data-provider="getCWEmptyOrgSize" finished-at="2021-05-23T18:37:55 IST" duration-ms="63636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Name=Valid , OffEmail=valid@gmail.com, OrgName=Cogni, ContactNo=9876543210}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyOrgSizeTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest@3b220bcb]" started-at="2021-05-23T18:37:55 IST" name="closeBrowser" finished-at="2021-05-23T18:37:56 IST" duration-ms="1059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest -->
+      <class name="testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest@12bfd80d]" started-at="2021-05-23T18:45:28 IST" name="openBrowser" finished-at="2021-05-23T18:45:31 IST" duration-ms="3138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="scheduleButtonFunctionalityTest()[pri:0, instance:testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest@12bfd80d]" started-at="2021-05-23T18:45:31 IST" name="scheduleButtonFunctionalityTest" finished-at="2021-05-23T18:45:35 IST" duration-ms="3661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scheduleButtonFunctionalityTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest@12bfd80d]" started-at="2021-05-23T18:45:35 IST" name="closeBrowser" finished-at="2021-05-23T18:45:36 IST" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest -->
+      <class name="testCaseHospitalSearch.FiltersSectionVisibilityCheck">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.FiltersSectionVisibilityCheck@388ba540]" started-at="2021-05-23T18:40:42 IST" name="openBrowser" finished-at="2021-05-23T18:40:50 IST" duration-ms="8690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="filtersSectionVisibilityTest()[pri:0, instance:testCaseHospitalSearch.FiltersSectionVisibilityCheck@388ba540]" started-at="2021-05-23T18:40:50 IST" name="filtersSectionVisibilityTest" finished-at="2021-05-23T18:40:50 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filtersSectionVisibilityTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.FiltersSectionVisibilityCheck@388ba540]" started-at="2021-05-23T18:40:50 IST" name="afterTest" finished-at="2021-05-23T18:40:51 IST" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCaseHospitalSearch.FiltersSectionVisibilityCheck -->
+      <class name="testCaseHospitalSearch.ResetFiltersCheck">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.ResetFiltersCheck@47605f2f]" started-at="2021-05-23T18:42:54 IST" name="openBrowser" finished-at="2021-05-23T18:43:02 IST" duration-ms="8263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="resetFiltersFunctionality()[pri:0, instance:testCaseHospitalSearch.ResetFiltersCheck@47605f2f]" started-at="2021-05-23T18:43:02 IST" name="resetFiltersFunctionality" finished-at="2021-05-23T18:44:40 IST" duration-ms="97858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetFiltersFunctionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.ResetFiltersCheck@47605f2f]" started-at="2021-05-23T18:44:40 IST" name="afterTest" finished-at="2021-05-23T18:44:41 IST" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCaseHospitalSearch.ResetFiltersCheck -->
+      <class name="testCaseDiagnosticsPage.DiagnosticsOptionClickTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseDiagnosticsPage.DiagnosticsOptionClickTest@13e3c1c7]" started-at="2021-05-23T18:36:25 IST" name="openBrowser" finished-at="2021-05-23T18:36:29 IST" duration-ms="4459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="diagnosticsButtonClickTest()[pri:0, instance:testCaseDiagnosticsPage.DiagnosticsOptionClickTest@13e3c1c7]" started-at="2021-05-23T18:36:29 IST" name="diagnosticsButtonClickTest" finished-at="2021-05-23T18:36:32 IST" duration-ms="2664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diagnosticsButtonClickTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseDiagnosticsPage.DiagnosticsOptionClickTest@13e3c1c7]" started-at="2021-05-23T18:36:32 IST" name="closeBrowser" finished-at="2021-05-23T18:36:33 IST" duration-ms="1310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseDiagnosticsPage.DiagnosticsOptionClickTest -->
+      <class name="testCaseDiagnosticsPage.DisplayTopCitiesTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseDiagnosticsPage.DisplayTopCitiesTest@3f053c80]" started-at="2021-05-23T18:40:27 IST" name="openBrowser" finished-at="2021-05-23T18:40:30 IST" duration-ms="3336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="displayTopCitiesTest()[pri:0, instance:testCaseDiagnosticsPage.DisplayTopCitiesTest@3f053c80]" started-at="2021-05-23T18:40:30 IST" name="displayTopCitiesTest" finished-at="2021-05-23T18:40:34 IST" duration-ms="3603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayTopCitiesTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseDiagnosticsPage.DisplayTopCitiesTest@3f053c80]" started-at="2021-05-23T18:40:34 IST" name="closeBrowser" finished-at="2021-05-23T18:40:35 IST" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseDiagnosticsPage.DisplayTopCitiesTest -->
+      <class name="testCaseHomePage.UseMyLocationTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.UseMyLocationTest@3918c187]" started-at="2021-05-23T18:46:05 IST" name="openBrowser" finished-at="2021-05-23T18:46:08 IST" duration-ms="3101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="useMyLocationTest()[pri:0, instance:testCaseHomePage.UseMyLocationTest@3918c187]" started-at="2021-05-23T18:46:08 IST" name="useMyLocationTest" finished-at="2021-05-23T18:46:09 IST" duration-ms="1089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useMyLocationTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.UseMyLocationTest@3918c187]" started-at="2021-05-23T18:46:09 IST" name="closeBrowser" finished-at="2021-05-23T18:46:10 IST" duration-ms="953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.UseMyLocationTest -->
+      <class name="testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest@41925502]" started-at="2021-05-23T18:45:45 IST" name="openBrowser" finished-at="2021-05-23T18:45:49 IST" duration-ms="3574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="corporateWellnessFunctionalityTest()[pri:0, instance:testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest@41925502]" started-at="2021-05-23T18:45:49 IST" name="corporateWellnessFunctionalityTest" finished-at="2021-05-23T18:45:52 IST" duration-ms="3451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporateWellnessFunctionalityTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest@41925502]" started-at="2021-05-23T18:45:52 IST" name="closeBrowser" finished-at="2021-05-23T18:45:53 IST" duration-ms="939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest -->
+      <class name="testCaseHospitalSearch.SearchHospitalsTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.SearchHospitalsTest@2ece4966]" started-at="2021-05-23T18:44:52 IST" name="openBrowser" finished-at="2021-05-23T18:45:01 IST" duration-ms="8850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="highRatingHospitalsTest()[pri:0, instance:testCaseHospitalSearch.SearchHospitalsTest@2ece4966]" started-at="2021-05-23T18:45:01 IST" name="highRatingHospitalsTest" finished-at="2021-05-23T18:45:09 IST" duration-ms="8146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highRatingHospitalsTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.SearchHospitalsTest@2ece4966]" started-at="2021-05-23T18:45:09 IST" name="afterTest" finished-at="2021-05-23T18:45:10 IST" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCaseHospitalSearch.SearchHospitalsTest -->
+      <class name="testCaseCorporateWellnessPage.ForProvidersFunctionalityTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.ForProvidersFunctionalityTest@3dddefd8]" started-at="2021-05-23T18:44:41 IST" name="openBrowser" finished-at="2021-05-23T18:44:45 IST" duration-ms="3717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="forProvidersFunctionalityTest()[pri:0, instance:testCaseCorporateWellnessPage.ForProvidersFunctionalityTest@3dddefd8]" started-at="2021-05-23T18:44:45 IST" name="forProvidersFunctionalityTest" finished-at="2021-05-23T18:44:45 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forProvidersFunctionalityTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.ForProvidersFunctionalityTest@3dddefd8]" started-at="2021-05-23T18:44:45 IST" name="closeBrowser" finished-at="2021-05-23T18:44:46 IST" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseCorporateWellnessPage.ForProvidersFunctionalityTest -->
+      <class name="testCaseHomePage.LocationSearchFunctionalityTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.LocationSearchFunctionalityTest@13c3c1e1]" started-at="2021-05-23T18:40:35 IST" name="openBrowser" finished-at="2021-05-23T18:40:39 IST" duration-ms="3603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="locationSearchTest()[pri:0, instance:testCaseHomePage.LocationSearchFunctionalityTest@13c3c1e1]" started-at="2021-05-23T18:40:39 IST" name="locationSearchTest" finished-at="2021-05-23T18:40:40 IST" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locationSearchTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.LocationSearchFunctionalityTest@13c3c1e1]" started-at="2021-05-23T18:40:40 IST" name="closeBrowser" finished-at="2021-05-23T18:40:42 IST" duration-ms="1607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.LocationSearchFunctionalityTest -->
+      <class name="testCaseHomePage.SearchBoxSuggestionTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.SearchBoxSuggestionTest@36546a22]" started-at="2021-05-23T18:45:36 IST" name="openBrowser" finished-at="2021-05-23T18:45:40 IST" duration-ms="3869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="suggestionCheckTest()[pri:0, instance:testCaseHomePage.SearchBoxSuggestionTest@36546a22]" started-at="2021-05-23T18:45:40 IST" name="suggestionCheckTest" finished-at="2021-05-23T18:45:44 IST" duration-ms="4649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suggestionCheckTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.SearchBoxSuggestionTest@36546a22]" started-at="2021-05-23T18:45:44 IST" name="closeBrowser" finished-at="2021-05-23T18:45:45 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.SearchBoxSuggestionTest -->
+      <class name="testCaseHomePage.SuggestionLocationCheckTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.SuggestionLocationCheckTest@295eaa7c]" started-at="2021-05-23T18:45:59 IST" name="openBrowser" finished-at="2021-05-23T18:46:03 IST" duration-ms="3598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="suggestionLocationCheckTest()[pri:0, instance:testCaseHomePage.SuggestionLocationCheckTest@295eaa7c]" started-at="2021-05-23T18:46:03 IST" name="suggestionLocationCheckTest" finished-at="2021-05-23T18:46:04 IST" duration-ms="1482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suggestionLocationCheckTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.SuggestionLocationCheckTest@295eaa7c]" started-at="2021-05-23T18:46:04 IST" name="closeBrowser" finished-at="2021-05-23T18:46:05 IST" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.SuggestionLocationCheckTest -->
+      <class name="testCaseHomePage.SearchBoxClickTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.SearchBoxClickTest@1e63ec0b]" started-at="2021-05-23T18:44:46 IST" name="openBrowser" finished-at="2021-05-23T18:44:49 IST" duration-ms="3390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="searchBoxClickTest()[pri:0, instance:testCaseHomePage.SearchBoxClickTest@1e63ec0b]" started-at="2021-05-23T18:44:49 IST" name="searchBoxClickTest" finished-at="2021-05-23T18:44:51 IST" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBoxClickTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.SearchBoxClickTest@1e63ec0b]" started-at="2021-05-23T18:44:51 IST" name="closeBrowser" finished-at="2021-05-23T18:44:52 IST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.SearchBoxClickTest -->
+      <class name="testCaseHomePage.LocationSearchClearTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.LocationSearchClearTest@618c5d94]" started-at="2021-05-23T18:36:33 IST" name="openBrowser" finished-at="2021-05-23T18:36:37 IST" duration-ms="3339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="locationSearchClearTest()[pri:0, instance:testCaseHomePage.LocationSearchClearTest@618c5d94]" started-at="2021-05-23T18:36:37 IST" name="locationSearchClearTest" finished-at="2021-05-23T18:36:37 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locationSearchClearTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.LocationSearchClearTest@618c5d94]" started-at="2021-05-23T18:36:37 IST" name="closeBrowser" finished-at="2021-05-23T18:36:38 IST" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.LocationSearchClearTest -->
+      <class name="testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest@160ac7fb]" started-at="2021-05-23T18:45:10 IST" name="openBrowser" finished-at="2021-05-23T18:45:13 IST" duration-ms="3487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="organizationSizeDropDownFunctionalityTest()[pri:0, instance:testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest@160ac7fb]" started-at="2021-05-23T18:45:13 IST" name="organizationSizeDropDownFunctionalityTest" finished-at="2021-05-23T18:45:17 IST" duration-ms="3488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationSizeDropDownFunctionalityTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest@160ac7fb]" started-at="2021-05-23T18:45:17 IST" name="closeBrowser" finished-at="2021-05-23T18:45:18 IST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest -->
+      <class name="testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest@4a3329b9]" started-at="2021-05-23T18:40:51 IST" name="openBrowser" finished-at="2021-05-23T18:40:55 IST" duration-ms="3285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="ValidDetailsTest(java.util.Hashtable)[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest@4a3329b9]" started-at="2021-05-23T18:40:55 IST" name="ValidDetailsTest" data-provider="getCWValidData" finished-at="2021-05-23T18:42:40 IST" duration-ms="105349" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Name=Valid , OffEmail=valid@gmail.com, OrgName=Cogni, ContactNo=9876543210}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidDetailsTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest@4a3329b9]" started-at="2021-05-23T18:42:40 IST" name="closeBrowser" finished-at="2021-05-23T18:42:41 IST" duration-ms="769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest -->
+      <class name="testCaseHospitalSearch.FiltersFunctionalityTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:08 IST" name="openBrowser" finished-at="2021-05-23T18:38:12 IST" duration-ms="4043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="accreditedFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:12 IST" name="accreditedFunctionality" finished-at="2021-05-23T18:38:17 IST" duration-ms="5148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accreditedFunctionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:17 IST" name="afterTest" finished-at="2021-05-23T18:38:18 IST" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:18 IST" name="openBrowser" finished-at="2021-05-23T18:38:21 IST" duration-ms="3040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="cafeteriaFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:21 IST" name="cafeteriaFunctionality" finished-at="2021-05-23T18:38:27 IST" duration-ms="6168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cafeteriaFunctionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:27 IST" name="afterTest" finished-at="2021-05-23T18:38:28 IST" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:28 IST" name="openBrowser" finished-at="2021-05-23T18:38:32 IST" duration-ms="3607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="diagnosticLabServicesFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:32 IST" name="diagnosticLabServicesFunctionality" finished-at="2021-05-23T18:38:38 IST" duration-ms="5806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diagnosticLabServicesFunctionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:38 IST" name="afterTest" finished-at="2021-05-23T18:38:38 IST" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:38 IST" name="openBrowser" finished-at="2021-05-23T18:38:42 IST" duration-ms="3536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="hasParkingFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:42 IST" name="hasParkingFunctionality" finished-at="2021-05-23T18:38:47 IST" duration-ms="5523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hasParkingFunctionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:47 IST" name="afterTest" finished-at="2021-05-23T18:38:48 IST" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:48 IST" name="openBrowser" finished-at="2021-05-23T18:38:52 IST" duration-ms="3202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="onlineBookingFunctionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:52 IST" name="onlineBookingFunctionality" finished-at="2021-05-23T18:38:56 IST" duration-ms="4803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onlineBookingFunctionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:56 IST" name="afterTest" finished-at="2021-05-23T18:38:57 IST" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:38:57 IST" name="openBrowser" finished-at="2021-05-23T18:39:00 IST" duration-ms="3365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="open24x7Functionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:39:00 IST" name="open24x7Functionality" finished-at="2021-05-23T18:39:06 IST" duration-ms="5428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open24x7Functionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:39:06 IST" name="afterTest" finished-at="2021-05-23T18:39:07 IST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:39:07 IST" name="openBrowser" finished-at="2021-05-23T18:39:11 IST" duration-ms="3727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="pharmacy24x7Functionality()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:39:11 IST" name="pharmacy24x7Functionality" finished-at="2021-05-23T18:39:16 IST" duration-ms="5431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pharmacy24x7Functionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed]" started-at="2021-05-23T18:39:16 IST" name="afterTest" finished-at="2021-05-23T18:39:17 IST" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCaseHospitalSearch.FiltersFunctionalityTest -->
+      <class name="testCaseHomePage.LocationSearchClickTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.LocationSearchClickTest@5b40ceb]" started-at="2021-05-23T18:38:03 IST" name="openBrowser" finished-at="2021-05-23T18:38:06 IST" duration-ms="3474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="locationSearchClickTest()[pri:0, instance:testCaseHomePage.LocationSearchClickTest@5b40ceb]" started-at="2021-05-23T18:38:06 IST" name="locationSearchClickTest" finished-at="2021-05-23T18:38:07 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locationSearchClickTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.LocationSearchClickTest@5b40ceb]" started-at="2021-05-23T18:38:07 IST" name="closeBrowser" finished-at="2021-05-23T18:38:08 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.LocationSearchClickTest -->
+      <class name="testCaseHospitalSearch.AllFiltersFunctionalityCheck">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHospitalSearch.AllFiltersFunctionalityCheck@2c88b9fc]" started-at="2021-05-23T18:36:38 IST" name="openBrowser" finished-at="2021-05-23T18:36:46 IST" duration-ms="8023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="allFiltersFunctionality()[pri:0, instance:testCaseHospitalSearch.AllFiltersFunctionalityCheck@2c88b9fc]" started-at="2021-05-23T18:36:46 IST" name="allFiltersFunctionality" finished-at="2021-05-23T18:36:46 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allFiltersFunctionality -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCaseHospitalSearch.AllFiltersFunctionalityCheck@2c88b9fc]" started-at="2021-05-23T18:36:46 IST" name="afterTest" finished-at="2021-05-23T18:36:47 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCaseHospitalSearch.AllFiltersFunctionalityCheck -->
+      <class name="testCaseDiagnosticsPage.SelectTopCityTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseDiagnosticsPage.SelectTopCityTest@6c6c5427]" started-at="2021-05-23T18:42:41 IST" name="openBrowser" finished-at="2021-05-23T18:42:44 IST" duration-ms="3701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="selectTopCityTest()[pri:0, instance:testCaseDiagnosticsPage.SelectTopCityTest@6c6c5427]" started-at="2021-05-23T18:42:44 IST" name="selectTopCityTest" finished-at="2021-05-23T18:42:48 IST" duration-ms="3133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTopCityTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseDiagnosticsPage.SelectTopCityTest@6c6c5427]" started-at="2021-05-23T18:42:48 IST" name="closeBrowser" finished-at="2021-05-23T18:42:48 IST" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseDiagnosticsPage.SelectTopCityTest -->
+      <class name="testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest@16ecee1]" started-at="2021-05-23T18:36:13 IST" name="openBrowser" finished-at="2021-05-23T18:36:18 IST" duration-ms="5623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="EmptyNameTest()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest@16ecee1]" started-at="2021-05-23T18:36:18 IST" name="EmptyNameTest" finished-at="2021-05-23T18:36:23 IST" duration-ms="4687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyNameTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest@16ecee1]" started-at="2021-05-23T18:36:23 IST" name="closeBrowser" finished-at="2021-05-23T18:36:25 IST" duration-ms="1907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest -->
+      <class name="testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b]" started-at="2021-05-23T18:39:17 IST" name="openBrowser" finished-at="2021-05-23T18:39:20 IST" duration-ms="3193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="InvalidTest(java.util.Hashtable)[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b]" started-at="2021-05-23T18:39:20 IST" name="InvalidTest" data-provider="getCWInvalidDetails" finished-at="2021-05-23T18:39:54 IST" duration-ms="33530" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Name=Rafter, OffEmail=rafter, OrgName=CTS, ContactNo=6543219870, Comments=Invalid Email}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b]" started-at="2021-05-23T18:39:54 IST" name="closeBrowser" finished-at="2021-05-23T18:39:55 IST" duration-ms="818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b]" started-at="2021-05-23T18:39:55 IST" name="openBrowser" finished-at="2021-05-23T18:39:58 IST" duration-ms="3672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="InvalidTest(java.util.Hashtable)[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b]" started-at="2021-05-23T18:39:58 IST" name="InvalidTest" data-provider="getCWInvalidDetails" finished-at="2021-05-23T18:40:26 IST" duration-ms="27506" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Name=Rohith, OffEmail=mail@mail.com, OrgName=Cognizant, ContactNo=12345, Comments=Invalid Contact}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b]" started-at="2021-05-23T18:40:26 IST" name="closeBrowser" finished-at="2021-05-23T18:40:27 IST" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest -->
+      <class name="testCaseHomePage.SearchInEntireCityTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseHomePage.SearchInEntireCityTest@285c08c8]" started-at="2021-05-23T18:45:53 IST" name="openBrowser" finished-at="2021-05-23T18:45:56 IST" duration-ms="3384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="searchInEntireCityTest()[pri:0, instance:testCaseHomePage.SearchInEntireCityTest@285c08c8]" started-at="2021-05-23T18:45:56 IST" name="searchInEntireCityTest" finished-at="2021-05-23T18:45:58 IST" duration-ms="1514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInEntireCityTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseHomePage.SearchInEntireCityTest@285c08c8]" started-at="2021-05-23T18:45:58 IST" name="closeBrowser" finished-at="2021-05-23T18:45:59 IST" duration-ms="918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseHomePage.SearchInEntireCityTest -->
+      <class name="testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest@5316e95f]" started-at="2021-05-23T18:37:56 IST" name="openBrowser" finished-at="2021-05-23T18:37:59 IST" duration-ms="3464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="selectCitySearchBoxClickTest()[pri:0, instance:testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest@5316e95f]" started-at="2021-05-23T18:37:59 IST" name="selectCitySearchBoxClickTest" finished-at="2021-05-23T18:38:02 IST" duration-ms="2946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCitySearchBoxClickTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest@5316e95f]" started-at="2021-05-23T18:38:02 IST" name="closeBrowser" finished-at="2021-05-23T18:38:03 IST" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

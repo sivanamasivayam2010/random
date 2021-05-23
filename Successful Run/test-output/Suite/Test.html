@@ -1,0 +1,249 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>34/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun May 23 18:36:12 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>597 seconds (597511 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest.EmptyNameTest()'><b>EmptyNameTest</b><br>Test class: testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest</td>
+<td></td>
+<td>4</td>
+<td>testCaseCorporateWellnessPage.CorporateWellnessWithEmptyNameTest@16ecee1</td></tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest.EmptyOrgSizeTest()'><b>EmptyOrgSizeTest</b><br>Test class: testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest<br>Parameters: {Name=Valid , OffEmail=valid@gmail.com, OrgName=Cogni, ContactNo=9876543210}</td>
+<td></td>
+<td>63</td>
+<td>testCaseCorporateWellnessPage.CorporateWellnessWithEmptyOrgSizeTest@3b220bcb</td></tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest.InvalidTest()'><b>InvalidTest</b><br>Test class: testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest<br>Parameters: {Name=Rafter, OffEmail=rafter, OrgName=CTS, ContactNo=6543219870, Comments=Invalid Email}</td>
+<td></td>
+<td>33</td>
+<td>testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b</td></tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest.InvalidTest()'><b>InvalidTest</b><br>Test class: testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest<br>Parameters: {Name=Rohith, OffEmail=mail@mail.com, OrgName=Cognizant, ContactNo=12345, Comments=Invalid Contact}</td>
+<td></td>
+<td>27</td>
+<td>testCaseCorporateWellnessPage.CorporateWellnessWithInvalidDetailsTest@2b95e48b</td></tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest.ValidDetailsTest()'><b>ValidDetailsTest</b><br>Test class: testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest<br>Parameters: {Name=Valid , OffEmail=valid@gmail.com, OrgName=Cogni, ContactNo=9876543210}</td>
+<td></td>
+<td>105</td>
+<td>testCaseCorporateWellnessPage.CorporateWellnessWithValidDetailsTest@4a3329b9</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.FiltersFunctionalityTest.accreditedFunctionality()'><b>accreditedFunctionality</b><br>Test class: testCaseHospitalSearch.FiltersFunctionalityTest</td>
+<td></td>
+<td>5</td>
+<td>testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.AllFiltersFunctionalityCheck.allFiltersFunctionality()'><b>allFiltersFunctionality</b><br>Test class: testCaseHospitalSearch.AllFiltersFunctionalityCheck</td>
+<td></td>
+<td>0</td>
+<td>testCaseHospitalSearch.AllFiltersFunctionalityCheck@2c88b9fc</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.FiltersFunctionalityTest.cafeteriaFunctionality()'><b>cafeteriaFunctionality</b><br>Test class: testCaseHospitalSearch.FiltersFunctionalityTest</td>
+<td></td>
+<td>6</td>
+<td>testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed</td></tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest.corporateWellnessFunctionalityTest()'><b>corporateWellnessFunctionalityTest</b><br>Test class: testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest</td>
+<td></td>
+<td>3</td>
+<td>testCaseCorporateWellnessPage.SelectCorporateWellnessOptionTest@41925502</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.FiltersFunctionalityTest.diagnosticLabServicesFunctionality()'><b>diagnosticLabServicesFunctionality</b><br>Test class: testCaseHospitalSearch.FiltersFunctionalityTest</td>
+<td></td>
+<td>5</td>
+<td>testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed</td></tr>
+<tr>
+<td title='testCaseDiagnosticsPage.DiagnosticsOptionClickTest.diagnosticsButtonClickTest()'><b>diagnosticsButtonClickTest</b><br>Test class: testCaseDiagnosticsPage.DiagnosticsOptionClickTest</td>
+<td></td>
+<td>2</td>
+<td>testCaseDiagnosticsPage.DiagnosticsOptionClickTest@13e3c1c7</td></tr>
+<tr>
+<td title='testCaseDiagnosticsPage.DisplayTopCitiesTest.displayTopCitiesTest()'><b>displayTopCitiesTest</b><br>Test class: testCaseDiagnosticsPage.DisplayTopCitiesTest</td>
+<td></td>
+<td>3</td>
+<td>testCaseDiagnosticsPage.DisplayTopCitiesTest@3f053c80</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.FiltersSectionVisibilityCheck.filtersSectionVisibilityTest()'><b>filtersSectionVisibilityTest</b><br>Test class: testCaseHospitalSearch.FiltersSectionVisibilityCheck</td>
+<td></td>
+<td>0</td>
+<td>testCaseHospitalSearch.FiltersSectionVisibilityCheck@388ba540</td></tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.ForProvidersFunctionalityTest.forProvidersFunctionalityTest()'><b>forProvidersFunctionalityTest</b><br>Test class: testCaseCorporateWellnessPage.ForProvidersFunctionalityTest</td>
+<td></td>
+<td>0</td>
+<td>testCaseCorporateWellnessPage.ForProvidersFunctionalityTest@3dddefd8</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.FiltersFunctionalityTest.hasParkingFunctionality()'><b>hasParkingFunctionality</b><br>Test class: testCaseHospitalSearch.FiltersFunctionalityTest</td>
+<td></td>
+<td>5</td>
+<td>testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.SearchHospitalsTest.highRatingHospitalsTest()'><b>highRatingHospitalsTest</b><br>Test class: testCaseHospitalSearch.SearchHospitalsTest</td>
+<td></td>
+<td>8</td>
+<td>testCaseHospitalSearch.SearchHospitalsTest@2ece4966</td></tr>
+<tr>
+<td title='testCaseHomePage.LocationSearchClearTest.locationSearchClearTest()'><b>locationSearchClearTest</b><br>Test class: testCaseHomePage.LocationSearchClearTest</td>
+<td></td>
+<td>0</td>
+<td>testCaseHomePage.LocationSearchClearTest@618c5d94</td></tr>
+<tr>
+<td title='testCaseHomePage.LocationSearchClickTest.locationSearchClickTest()'><b>locationSearchClickTest</b><br>Test class: testCaseHomePage.LocationSearchClickTest</td>
+<td></td>
+<td>0</td>
+<td>testCaseHomePage.LocationSearchClickTest@5b40ceb</td></tr>
+<tr>
+<td title='testCaseHomePage.LocationSearchFunctionalityTest.locationSearchTest()'><b>locationSearchTest</b><br>Test class: testCaseHomePage.LocationSearchFunctionalityTest</td>
+<td></td>
+<td>1</td>
+<td>testCaseHomePage.LocationSearchFunctionalityTest@13c3c1e1</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.FiltersFunctionalityTest.onlineBookingFunctionality()'><b>onlineBookingFunctionality</b><br>Test class: testCaseHospitalSearch.FiltersFunctionalityTest</td>
+<td></td>
+<td>4</td>
+<td>testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.FiltersFunctionalityTest.open24x7Functionality()'><b>open24x7Functionality</b><br>Test class: testCaseHospitalSearch.FiltersFunctionalityTest</td>
+<td></td>
+<td>5</td>
+<td>testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed</td></tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest.organizationSizeDropDownFunctionalityTest()'><b>organizationSizeDropDownFunctionalityTest</b><br>Test class: testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest</td>
+<td></td>
+<td>3</td>
+<td>testCaseCorporateWellnessPage.OrganizationSizeDropDownFunctionalityTest@160ac7fb</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.FiltersFunctionalityTest.pharmacy24x7Functionality()'><b>pharmacy24x7Functionality</b><br>Test class: testCaseHospitalSearch.FiltersFunctionalityTest</td>
+<td></td>
+<td>5</td>
+<td>testCaseHospitalSearch.FiltersFunctionalityTest@64dafeed</td></tr>
+<tr>
+<td title='testCaseHospitalSearch.ResetFiltersCheck.resetFiltersFunctionality()'><b>resetFiltersFunctionality</b><br>Test class: testCaseHospitalSearch.ResetFiltersCheck</td>
+<td></td>
+<td>97</td>
+<td>testCaseHospitalSearch.ResetFiltersCheck@47605f2f</td></tr>
+<tr>
+<td title='testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest.scheduleButtonFunctionalityTest()'><b>scheduleButtonFunctionalityTest</b><br>Test class: testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest</td>
+<td></td>
+<td>3</td>
+<td>testCaseCorporateWellnessPage.ScheduleADemoButtonFunctionalityTest@12bfd80d</td></tr>
+<tr>
+<td title='testCaseHomePage.SearchBoxClearTest.searchBoxClearTest()'><b>searchBoxClearTest</b><br>Test class: testCaseHomePage.SearchBoxClearTest</td>
+<td></td>
+<td>1</td>
+<td>testCaseHomePage.SearchBoxClearTest@1d8062d2</td></tr>
+<tr>
+<td title='testCaseHomePage.SearchBoxClickTest.searchBoxClickTest()'><b>searchBoxClickTest</b><br>Test class: testCaseHomePage.SearchBoxClickTest</td>
+<td></td>
+<td>1</td>
+<td>testCaseHomePage.SearchBoxClickTest@1e63ec0b</td></tr>
+<tr>
+<td title='testCaseHomePage.SearchBoxFunctionalityTest.searchBoxTest()'><b>searchBoxTest</b><br>Test class: testCaseHomePage.SearchBoxFunctionalityTest</td>
+<td></td>
+<td>5</td>
+<td>testCaseHomePage.SearchBoxFunctionalityTest@3b956878</td></tr>
+<tr>
+<td title='testCaseHomePage.SearchInEntireCityTest.searchInEntireCityTest()'><b>searchInEntireCityTest</b><br>Test class: testCaseHomePage.SearchInEntireCityTest</td>
+<td></td>
+<td>1</td>
+<td>testCaseHomePage.SearchInEntireCityTest@285c08c8</td></tr>
+<tr>
+<td title='testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest.selectCitySearchBoxClickTest()'><b>selectCitySearchBoxClickTest</b><br>Test class: testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest</td>
+<td></td>
+<td>2</td>
+<td>testCaseDiagnosticsPage.DiagnosticsPageSearchBoxClickTest@5316e95f</td></tr>
+<tr>
+<td title='testCaseDiagnosticsPage.SelectTopCityTest.selectTopCityTest()'><b>selectTopCityTest</b><br>Test class: testCaseDiagnosticsPage.SelectTopCityTest</td>
+<td></td>
+<td>3</td>
+<td>testCaseDiagnosticsPage.SelectTopCityTest@6c6c5427</td></tr>
+<tr>
+<td title='testCaseHomePage.SearchBoxSuggestionTest.suggestionCheckTest()'><b>suggestionCheckTest</b><br>Test class: testCaseHomePage.SearchBoxSuggestionTest</td>
+<td></td>
+<td>4</td>
+<td>testCaseHomePage.SearchBoxSuggestionTest@36546a22</td></tr>
+<tr>
+<td title='testCaseHomePage.SuggestionLocationCheckTest.suggestionLocationCheckTest()'><b>suggestionLocationCheckTest</b><br>Test class: testCaseHomePage.SuggestionLocationCheckTest</td>
+<td></td>
+<td>1</td>
+<td>testCaseHomePage.SuggestionLocationCheckTest@295eaa7c</td></tr>
+<tr>
+<td title='testCaseHomePage.UseMyLocationTest.useMyLocationTest()'><b>useMyLocationTest</b><br>Test class: testCaseHomePage.UseMyLocationTest</td>
+<td></td>
+<td>1</td>
+<td>testCaseHomePage.UseMyLocationTest@3918c187</td></tr>
+</table><p>
+</body>
+</html>
